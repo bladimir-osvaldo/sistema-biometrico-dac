@@ -1,0 +1,1 @@
+﻿# TX->GPIO17, RX->GPIO16, 57600 baud
